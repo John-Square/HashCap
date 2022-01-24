@@ -1,4 +1,4 @@
-# HashCap
+# Hash Cap
 ## Description
 The program was created to work with hashes.
 <br>
