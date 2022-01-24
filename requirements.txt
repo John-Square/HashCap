@@ -1,0 +1,4 @@
+colorama
+whirlpool
+pyfiglet
+cryptohash
